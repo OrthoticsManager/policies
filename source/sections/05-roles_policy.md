@@ -215,14 +215,39 @@ may not be subjected to intimidation, threats, coercion,
 discrimination against, or any other retaliatory action as a
 consequence. 
 
-1. The Security Officer promptly facilitates a thorough investigation of all reported violations of PPM's security policies and procedures. The Security Officer may request assistance from others.
+1. The Security Officer promptly facilitates a thorough investigation
+   of all reported violations of PPM's security policies and
+   procedures. The Security Officer may request assistance from others. 
    * Complete an audit trail/log to identify and verify the violation and sequence of events.
    * Interview any individual that may be aware of or involved in the incident.
-   * All individuals are required to cooperate with the investigation process and provide factual information to those conducting the investigation.
-   * Provide individuals suspected of non-compliance of the Security rule and/or PPM's policies and procedures the opportunity to explain their actions.
-   * The investigator thoroughly documents the investigation as the investigation occurs. This documentation must include a list of all employees involved in the violation.
-2. Violation of any security policy or procedure by workforce members may result in corrective disciplinary action, up to and including termination of employment. Violation of this policy and procedures by others, including business associates, customers, and partners may result in termination of the relationship and/or associated privileges. Violation may also result in civil and criminal penalties as determined by federal and state laws and regulations.
-   * A violation resulting in a breach of confidentiality (i.e. release of PHI to an unauthorized individual), change of the integrity of any ePHI, or inability to access any ePHI by other users, requires immediate termination of the workforce member from PPM.
-3. The Security Officer facilitates taking appropriate steps to prevent recurrence of the violation (when possible and feasible).
-4. In the case of an insider threat, the Security Officer and Privacy Officer are to set up a team to investigate and mitigate the risk of insider malicious activity. PPM workforce members are encouraged to come forward with information about insider threats, and can do so anonymously.
-5. The Security Officer maintains all documentation of the investigation, sanctions provided, and actions taken to prevent reoccurrence for a minimum of six years after the conclusion of the investigation.
+   * All individuals are required to cooperate with the investigation
+     process and provide factual information to those conducting the
+     investigation. 
+   * Provide individuals suspected of non-compliance of the Security
+     rule and/or PPM's policies and procedures the opportunity to
+     explain their actions. 
+   * The investigator thoroughly documents the investigation as the
+     investigation occurs. This documentation must include a list of all
+     employees involved in the violation. 
+2. Violation of any security policy or procedure by workforce members
+   may result in corrective disciplinary action, up to and including
+   termination of employment. Violation of this policy and procedures
+   by others, including business associates, customers, and partners
+   may result in termination of the relationship and/or associated
+   privileges. Violation may also result in civil and criminal
+   penalties as determined by federal and state laws and regulations. 
+   * A violation resulting in a breach of confidentiality
+     (i.e. release of PHI to an unauthorized individual), change of the
+     integrity of any ePHI, or inability to access any ePHI by other
+     users, requires immediate termination of the workforce member from PPM. 
+3. The Security Officer facilitates taking appropriate steps to
+   prevent recurrence of the violation (when possible and feasible). 
+4. In the case of an insider threat, the Security Officer and Privacy
+   Officer are to set up a team to investigate and mitigate the risk
+   of insider malicious activity. PPM workforce members are encouraged
+   to come forward with information about insider threats, and can do
+   so anonymously. 
+5. The Security Officer maintains all documentation of the
+   investigation, sanctions provided, and actions taken to prevent
+   reoccurrence for a minimum of six years after the conclusion of the
+   investigation. 
