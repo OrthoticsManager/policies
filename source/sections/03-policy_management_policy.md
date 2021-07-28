@@ -78,10 +78,10 @@ current master policies are published at [https://policy.orthmgr.com](https://po
     6. Policy review is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 7.  PPM tracks compliance with HIPAA and publishes results at [https://hipaa.orthmgr.com](https://hipaa.orthmgr.com). In order to track and measure adherence on an annual basis, PPM uses the following process:
-  1. The Security Officer initiates the audit activity by creating an Issue in the PPM Quality Management System.
-  2. The Security Officer or the Privacy Officer is assigned to own and manage the activity.
-  3. Once the activity is completed, the Security Officer approves or rejects the Issue.
-  5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-  6. Compliance with annual compliance assessments is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+     1. The Security Officer initiates the audit activity by creating an Issue in the PPM Quality Management System.
+     2. The Security Officer or the Privacy Officer is assigned to own and manage the activity.
+     3. Once the activity is completed, the Security Officer approves or rejects the Issue.
+     5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
+     6. Compliance with annual compliance assessments is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).
