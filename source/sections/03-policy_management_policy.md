@@ -50,7 +50,7 @@ process:
     (§9.4)](#9.4-changing-existing-systems).
 
 4. All policies are made accessible to all PPM workforce members. The
-current master policies are published at [https://policy.datica.com](https://policy.datica.com). 
+current master policies are published at [https://policy.orthmgr.com](https://policy.orthmgr.com). 
    * Changes are automatically communicated to all PPM team members
    through GitHub.
    * The Security Officer also communicates policy changes to all
@@ -70,18 +70,18 @@ current master policies are published at [https://policy.datica.com](https://pol
   process are reviewed by PPM management to assure all risks and
   potential gaps are mitigated and/or fully addressed. The process for
   reviewing polices is outlined below: 
-    1. The Security Officer initiates the policy review by creating an Issue in the PPM Quality Management System.
-    2. The Security Officer or the Privacy Officer is assigned to review the current PPM policies ([https://policy.datica.com/](https://policy.datica.com/)).
+    1. The Security Officer initiates the policy review by creating an Issue in the PPM Quality Management System. 
+    2. The Security Officer or the Privacy Officer is assigned to review the current PPM policies ([https://policy.orthmgr.com/](https://policy.orthmgr.com/)). 
     3. If changes are made, the above process is used. All changes are documented in the Issue.
     4. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
     5. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
     6. Policy review is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
-7. PPM utilizes the HITRUST MyCSF framework to track compliance with the HITRUST CSF on an annual basis. PPM also tracks compliance with HIPAA and publishes results at [https://hipaa.datica.com](https://hipaa.datica.com). In order to track and measure adherence on an annual basis, PPM uses the following process to track HITRUST audits, both full and interim:
-  1. The Security Officer initiates the HITRUST audit activity by creating an Issue in the PPM Quality Management System.
-  2. The Security Officer or the Privacy Officer is assigned to own and manage the HITRUST activity.
-  3. Once the HITRUST activity is completed, the Security Officer approves or rejects the Issue.
+7.  PPM tracks compliance with HIPAA and publishes results at [https://hipaa.orthmgr.com](https://hipaa.orthmgr.com). In order to track and measure adherence on an annual basis, PPM uses the following process:
+  1. The Security Officer initiates the audit activity by creating an Issue in the PPM Quality Management System.
+  2. The Security Officer or the Privacy Officer is assigned to own and manage the activity.
+  3. Once the activity is completed, the Security Officer approves or rejects the Issue.
   5. If the review is approved, the Security Officer then marks the Issue as Done, adding any pertinent notes required.
-  6. Compliance with annual compliance assessments, utilizing the HITRUST CSF as a framework, is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
+  6. Compliance with annual compliance assessments is monitored on a quarterly basis using the Quality Management System reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in [§5.3.1](#5.3-security-officer).
