@@ -1,4 +1,4 @@
-# Introduction
+# 1. Introduction
 
 Podiatric Practice Management, LLC ("PPM") is committed to ensuring
 the confidentiality, privacy, integrity, and availability of all
@@ -36,7 +36,7 @@ demonstrate compliance with HIPAA.
 Mappings of HIPAA Rules to PPM controls are covered in
 [§2](#2.-hipaa-inheritance).
 
-##  PPM Organizational Concepts
+## 1.1 PPM Organizational Concepts
 
 The physical infrastructure environment is hosted at [Amazon Web
 Services](https://aws.amazon.com/) (AWS).  The network components and
@@ -77,7 +77,7 @@ number of personnel and strictly controlled to only those personnel
 with a business-justified reason. Remote access to internal servers is
 not accessible except through load balancers.
 
-## 1.5 Version Control
+## 1.2 Version Control
 
 Refer to the GitHub repository at
 [https://github.com/OrthoticsManager/policies/](https://github.com/OrthoticsManager/policies/policies/)
