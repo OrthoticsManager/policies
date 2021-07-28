@@ -25,14 +25,33 @@ finding policies at specific historic dates in time.
    HIPAA, HITRUST, NIST, and other relevant standards. Updates and
    version control are done similarly to source code control.
 
-2. Policy update requests can be made by any workforce member at any time. Furthermore, all policies are reviewed annually by both the Security and Privacy Officer to assure they are accurate and up-to-date.
+2. Policy update requests can be made by any workforce member at any
+time. Furthermore, all policies are reviewed annually by both the
+Security and Privacy Officer to assure they are accurate and
+up-to-date.
 
-3. PPM employees may request changes to policies using the following process:
-    1. The PPM employee initiates a policy change request by creating an Issue in the PPM Quality Management System. The change request may optionally include a GitHub pull request from a separate branch or repository containing the desired changes.
-    2. The Security Officer or the Privacy Officer is assigned to review the policy change request.
-    3. Once the review is completed, the Security Officer or Privacy Officer approves or rejects the Issue. If the Issue is rejected, it goes back for further review and documentation.
-    4. If the review is approved, the Security Officer or Privacy Officer then marks the Issue as Done, adding any pertinent notes required.
-    5. If the policy change requires technical modifications to production systems, those changes are carried out by authorized personnel using PPM's [change management process (§9.4)](#9.4-changing-existing-systems).
+3. PPM employees may request changes to policies using the following
+process:
+    1. The PPM employee initiates a policy change request by creating
+    an Issue in the PPM Quality Management System. The change request
+    may optionally include a GitHub pull request from a separate
+    branch or repository containing the desired changes.
+
+    2. The Security Officer or the Privacy Officer is assigned to
+    review the policy change request.
+
+    3. Once the review is completed, the Security Officer or Privacy
+    Officer approves or rejects the Issue. If the Issue is rejected,
+    it goes back for further review and documentation.
+
+    4. If the review is approved, the Security Officer or Privacy
+    Officer then marks the Issue as Done, adding any pertinent notes
+    required.
+
+    5. If the policy change requires technical modifications to
+    production systems, those changes are carried out by authorized
+    personnel using PPM's [change management process
+    (§9.4)](#9.4-changing-existing-systems).
 
 4. All policies are made accessible to all PPM workforce members. The current master policies are published at [https://policy.datica.com](https://policy.datica.com).
    * Changes are automatically communicated to all PPM team members through integrations between GitHub and Slack that log all GitHub policy channels to a dedicated PPM Slack Channel.
