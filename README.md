@@ -1,7 +1,7 @@
 # Podiatric Practice Management, LLC
 # HIPAA Compliance Policies
 
-Podiatric Practice Management, LLC (PPM) follows the Open Source HIPAA compliance policy documents created by Datica, a HITRUST CSF certified digital health platform.  The first half of these policy documents includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Podiatric Practice Managemnet, LLC builds its platform with these guidelines in mind.
+Podiatric Practice Management, LLC (PPM) follows the Open Source HIPAA compliance policy documents created and made Open Source by Datica, a HITRUST CSF certified digital health platform.  The first half of these policy documents includes all technical guidelines, both physical and digital. Compliant companies take measures to secure their hardware and manage their software in a certain way. Encryption, logging, monitoring—these are just a few examples of HIPAA technical requirements. Podiatric Practice Managemnet, LLC builds its platform with these guidelines in mind.
 
 The second half of HIPAA is focused on administrative and organizational activities. This includes signing Business Associate Agreements (BAAs), and managing company policies like training, among other things. These policies are focused on healthcare technology and software.
 
@@ -39,15 +39,3 @@ Each policy is included as its own markdown file.
 * [Key Definitions](source/sections/22-key_definitions.md)
 * [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
 * [HIPAA Mappings to Datica Controls](source/sections/24-hipaa_mapping_to_datica_controls.md)
-
-### How to build the docs
-
-- Download this repository
-- cd `policies`
-- `bundle install`
-
-*Commands*
-- `rake run` will run the site locally
-- `rake sass` will compile any changes made to `assets/css/styles.scss`
-- `rake build` will build the static site into the `build` directory
-- `rake serve_static` will create a simple HTTP server for the `build` directory
