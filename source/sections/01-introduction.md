@@ -14,8 +14,8 @@ infrastructure used to store, process, and transmit ePHI for PPM
 Customers.
 
 PPM provides secure and compliant cloud-based software. This hosted
-software falls into the category of **Software as a Service
-(SaaS)**. 
+software falls into the category of 
+**Software as a Service (SaaS)**. 
 SaaS Customers utilize hosted software from PPM and infrastructure from our
 platform provider. PPM makes
 every effort to reduce the risk of unauthorized disclosure, access,
